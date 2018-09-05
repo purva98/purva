@@ -25,7 +25,7 @@
 	
 	<script>
 		function signup(){
-			window.location = "/sub/index.php";
+			window.location = "/purva/sub/index.php";
 		}
 		
 	</script>
