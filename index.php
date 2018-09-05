@@ -25,7 +25,7 @@
 	
 	<script>
 		function signup(){
-			window.location = "signup.php";
+			window.location = "/sub/index.php";
 		}
 		
 	</script>
