@@ -89,11 +89,14 @@
             <h1 class="section-heading white-text mb-4">About</h1>
              
             <hr class="light my-4">
-            <p class="white-text mb-4"><strong>IEEE Student Branch, DA-IICT</strong> aims to provide an interactive platform for students to develop professional and technical abilities.The Women In Engineering (WIE) affinity group of IEEE SB DAIICT is organizing <strong>' Tic-Tech-Toe 2018 '</strong> wherein you will be making an innovative applications in the given time frame.We welcome and encourage any kind of innovative applications that can have high utility or impact value.</p>
+            <p class="white-text mb-4">
 
+			 The Women in Engineering Affinity Group of <strong>IEEE Student Branch of DA-IICT</strong>
+			 along with Women in Entrepreneurship of DA-IICT <strong>Centre of Entrepreneurship and Incubation (DCEI)</strong> have a mission to inspire and empower all the budding
+			 engineers, especially the women techmakers. With this vision, we are proud to present to you our annual national hackathon, Tic-Tech-Toe’18.</p>
             <p class="white-text mb-4">Hacking is building things that you always wanted to have but no one has built it yet. It's to come up with an amazing idea and work tirelessly on it. It is to fail, fail again and fail better. Try out new things and learn while doing that. It's to work together, collaborate and build things that are innovative. </p>
 
-            <p class="white-text mb-12" style="border: 8px solid;"><strong>DATES : </strong><strong>6th to 7th October </strong></p><p class="white-text mb-4" style="border: 8px solid;"> <strong>VENUE : Sac-1 , DA-IICT</strong></p><p class="white-text mb-4">Schedule to be announced soon. Compete and build the best to win <strong>tons of great prizes!</strong></p>
+            <p class="white-text mb-12" style="border: 8px solid;"><strong>DATES : </strong><strong>6th to 7th October </strong></p><p class="white-text mb-4" style="border: 8px solid;"> <strong>VENUE : Sac-1 , DA-IICT</strong></p><p class="white-text mb-4">Compete and build the best to win <strong>tons of great prizes!</strong></p>
             <button  onclick="signup()" type="button">Register</button>
           </div>
         </div>
@@ -106,18 +109,51 @@
           <div class="col-lg-8 mx-auto">
             <h1 class="section-heading black-text mb-3 text-center">Contest Format</h1>			
             <hr class="my-4">
-            <p class="black-text">In these <strong>24 hours </strong>of brainstorming, all the designers, thinkers, programmers and developers will come together to create WEB or MOBILE applications which might pioneer in the near future or are extended versions of the already ruling notions in the app market.</p>
+            <p class="black-text">In these <strong>30 hours </strong>of brainstorming, all the designers, thinkers, programmers and developers will come together to create WEB or MOBILE applications which might pioneer in the near future or are extended versions of the already ruling notions in the app market.</p>
             <p class="black-text text-center"><strong>Rules</strong>  </p>
 			<hr class="my-12">
             <p class="black-text mb-4">
 			<table>
 			<tr>1. It Should be a mobile Application or web Application</tr><br>
-			<tr>2. Teams can be formed of 3 to 5 people.</tr><br>
+			<tr>2. Teams can be formed of 3 to 5 people.Each team should atleast one female participant.</tr><br>
 			<tr>3. Originality of the idea should be there. No plagiarism allowed. Coding should begin when hackathon starts. No precoded projects allowed.</tr><br>
 			<tr>4. Participants will have to bring their own laptops and chargers.No apks, software installations, etc. would be made available from the event team.</tr><br>
-			<tr>5. Students will have to present their application after the 24-hour hack duration completes, on the basis of which the winners will be decided.</tr><br>
-			<tr>6. Accommodation, light refreshments and internet connectivity will be provided during the event hours.</tr><br>
+			<tr>5. Students will have to present their application after the 30-hour hack duration completes, on the basis of which the winners will be decided.</tr><br>
+			<tr>6. Free Registration,Accommodation, light refreshments and internet connectivity will be provided during the event hours.</tr><br>
 			<tr>7. Any instance of unseemly behavior or of activities indicating lack of integrity and honesty on the part of the students will be regarded as a breach of discipline.</tr><br>
+			
+			</table>
+			</p>
+       </div>
+		
+		<div class="row">
+          <div class="col-lg-8 mx-auto">
+            <h1 class="section-heading black-text mb-3 text-center">Schedule</h1>
+			<hr class="my-4">
+            <p class="black-text">Let's go through the schedule</p>
+            <p class="black-text text-center"><strong>Timetable</strong>  </p>
+            <hr class="my-12">			
+          	<p class="black-text mb-4">
+			<table>
+			<tr>5th October</tr><br>
+			<tr>8:30 pm  - 10:00 pm&nbsp&nbsp&nbspRegistration</tr><br>
+			<tr>10:30 pm - 10:45 pm&nbsp&nbsp&nbspTheme Announcement (INAUGURAL)</tr><br>
+			<tr>10:45 pm - 11:45 pm&nbsp&nbsp&nbspTeam Formation and Networking</tr><br>
+			<tr>6th October</tr><br>
+			<tr>12:00 am Start Hackathon</tr><br>
+			<tr>3:00 am  Midnight Snacks</tr><br>
+			<tr>8:30 am Breakfast</tr><br>
+			<tr>12:30 pm DCEI WEP Launch</tr><br>
+			<tr>5:30 pm Lunch</tr><br>
+			<tr>8:30 pm Snacks</tr><br>
+			<tr>2:00 pm  Dinner</tr><br>
+			<tr>7th October</tr><br>
+			<tr>6:00 am   Submission Of Product and Hackathon Ends</tr><br>
+			<tr>8:00am - 9:00am  Jury Decision and Shortlist Out</tr><br>
+			<tr>9:00am - 11:00am Presentation and Judging</tr><br>
+			<tr>11:00am - 12:00pmAwards and Closing Ceremony</tr><br>
+			
+
 			</table>
 			</p>
 			<p class="black-text mb-4">Show your passion and innovation and win awesome prizes. </p>
@@ -126,6 +162,8 @@
         </div>
       </div>
     </section>
+	
+	
 
 	<section class="bg-primary" id="prizes">
       <div class="container">
@@ -170,29 +208,95 @@
             <h2 class="section-heading black-text">Past Sponsors</h2>
 			<hr class="my-4">
 			<br><br>
-			<table>
-			<tr >
-			<td style="padding-right:100px; padding-left:50px ; padding-bottom:30px"><img src="img/1.png" width="180px"></td>
-            <td style="padding-right:100px; padding-bottom:30px"><img src="img/fp1.png" width="180px"></td>
-			<td style="padding-right:100px; padding-bottom:30px"><img src="img/3.png" width="180px"></td>
-			<td style="padding-right:100px; padding-bottom:30px"><img src="img/fp6.png" width="180px"></td>
-			</tr><tr>
-			<td style="padding-right:100px; padding-bottom:30px"><img src="img/4.jpg" width="180px"></td>
-			<td style="padding-right:100px; padding-bottom:30px"><img src="img/5.png" width="180px"></td>
-			<td style="padding-right:100px; padding-bottom:30px"><img src="img/s5.png" width="180px"></td>
-			<td style="padding-right:100px; padding-bottom:30px"><img src="img/fp7.png" width="100px"></td>
-			</tr><tr>
-            <td style="padding-right:100px; padding-bottom:30px"><img src="img/fp2.png" width="180px"></td>
-			<td style="padding-right:100px; padding-bottom:30px"><img src="img/fp3.png" width="180px"></td>
-			<td style="padding-right:100px; padding-bottom:30px"><img src="img/fp4.png" width="180px"></td>
-			<td style="padding-right:100px; padding-bottom:30px"><img src="img/fp5.png" width="100px"></td>
-			</tr><tr>
-            <td style="padding-right:100px; padding-bottom:30px"><img src="img/s6.png" width="180px"></td>
-			<td style="padding-right:100px; padding-bottom:30px"><img src="img/s7.png" width="180px"></td>
-			<td style="padding-right:100px; padding-bottom:30px"><img src="img/s9.png" width="180px"></td>
-			<td style="padding-right:100px; padding-bottom:30px"><img src="img/s10.png" width="180px"></td>
-			</tr>
-			</table>
+			<section> 
+
+
+ 
+			<div class="row"> 
+
+
+ 
+			<div class="col-md-3" style="padding-right:100px; padding-left:50px ; padding-bottom:30px"><img src="img/1.png" width="180px"></div> 
+
+
+ 
+            <div class="col-md-3" style="padding-right:100px; padding-bottom:30px"><img src="img/fp1.png" width="180px"></div> 
+
+
+ 
+			<div class="col-md-3" style="padding-right:100px; padding-bottom:30px"><img src="img/3.png" width="180px"></div> 
+
+
+ 
+			<div class="col-md-3" style="padding-right:100px; padding-bottom:30px"><img src="img/fp6.png" width="180px"></div> 
+
+
+ 
+			</div><div class="row"> 
+
+
+ 
+			<div class="col-md-3" style="padding-right:100px; padding-bottom:30px"><img src="img/4.jpg" width="180px"></div> 
+
+
+ 
+			<div class="col-md-3" style="padding-right:100px; padding-bottom:30px"><img src="img/5.png" width="180px"></div> 
+
+
+ 
+			<div class="col-md-3" style="padding-right:100px; padding-bottom:30px"><img src="img/s5.png" width="180px"></div> 
+
+
+ 
+			<div class="col-md-3" style="padding-right:100px; padding-bottom:30px"><img src="img/fp7.png" width="100px"></div> 
+
+
+ 
+			</div><div class="row"> 
+
+
+ 
+            <div class="col-md-3" style="padding-right:100px; padding-bottom:30px"><img src="img/fp2.png" width="180px"></div> 
+
+
+ 
+			<div class="col-md-3" style="padding-right:100px; padding-bottom:30px"><img src="img/fp3.png" width="180px"></div> 
+
+
+ 
+			<div class="col-md-3" style="padding-right:100px; padding-bottom:30px"><img src="img/fp4.png" width="180px"></div> 
+
+
+ 
+			<div class="col-md-3" style="padding-right:100px; padding-bottom:30px"><img src="img/fp5.png" width="100px"></div> 
+
+
+ 
+			</div><div class="row"> 
+
+
+ 
+            <div class="col-md-3" style="padding-right:100px; padding-bottom:30px"><img src="img/s6.png" width="180px"></div> 
+
+
+ 
+			<div class="col-md-3" style="padding-right:100px; padding-bottom:30px"><img src="img/s7.png" width="180px"></div> 
+
+
+ 
+			<div class="col-md-3" style="padding-right:100px; padding-bottom:30px"><img src="img/s9.png" width="180px"></div> 
+
+
+ 
+			<div class="col-md-3" style="padding-right:100px; padding-bottom:30px"><img src="img/s10.png" width="180px"></div> 
+
+
+ 
+			</div> 
+
+
+ 
+			</section> 
             <hr class="light my-4">
           </div>
         </div>
@@ -208,7 +312,7 @@
             <h2 class="section-heading">Have a doubt? Get In Touch!</h2>
             <hr class="my-4">
             <p class="mb-5">True wisdom lies in asking the right questions. It is not the answer that enlightens, but a prudent question. </p>
-			<p class="mb-5">EMAIL ID : wie.ieee.daiict@gmail.com </p>
+			<p class="mb-5">EMAIL ID : tictechtoe18@gmail.com </p>
           </div>
         </div>
         <div class="row">
@@ -219,13 +323,30 @@
         </div>
           <div class="col-md-3 col-sm-4 text-center mb-4">
             <i class="fa fa-phone fa-3x mb-3 sr-contact"></i>
-            <p class="mb-1">Purva</p>
-            <p class="mb-1">+91 9978099596</p>
+            <p class="mb-1">Shreya</p>
+            <p class="mb-1">+91 9537684306</p>
           </div>
           <div class="col-md-3 col-sm-4 text-center mr-auto mb-4">
             <i class="fa fa-phone fa-3x mb-3 sr-contact"></i>
-            <p class="mb-1">Meet</p>
-            <p class="mb-1">+91 8160714367</p>
+            <p class="mb-1">Purva</p>
+            <p class="mb-1">+91 9978099596</p>
+          </div>
+        </div>
+		  <div class="row">
+        <div class="col-md-3 col-sm-4 text-center ml-auto mb-4">
+          <i class="fa fa-phone fa-3x mb-3 sr-contact"></i>
+          <p class="mb-1">Meet</p>
+          <p class="mb-1">+91 8160714367</p>
+        </div>
+          <div class="col-md-3 col-sm-4 text-center mb-4">
+            <i class="fa fa-phone fa-3x mb-3 sr-contact"></i>
+            <p class="mb-1">Nishi</p>
+            <p class="mb-1">+91 9687781018</p>
+          </div>
+          <div class="col-md-3 col-sm-4 text-center mr-auto mb-4">
+            <i class="fa fa-phone fa-3x mb-3 sr-contact"></i>
+            <p class="mb-1">Ameya</p>
+            <p class="mb-1">+91 7490011850‬</p>
           </div>
         </div>
       </div>
