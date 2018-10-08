@@ -126,40 +126,7 @@
 			</p>
        </div>
 		
-		<div class="row">
-          <div class="col-lg-8 mx-auto">
-            <h1 class="section-heading black-text mb-3 text-center">Schedule</h1>
-			<hr class="my-4">
-            <p class="black-text">Let's go through the schedule</p>
-            <p class="black-text text-center"><strong>Timetable</strong>  </p>
-            <hr class="my-12">			
-          	<p class="black-text mb-4">
-			<table>
-			<tr>5th October</tr><br>
-			<tr>8:30 pm  - 10:00 pm&nbsp&nbsp&nbspRegistration</tr><br>
-			<tr>10:30 pm - 10:45 pm&nbsp&nbsp&nbspTheme Announcement (INAUGURAL)</tr><br>
-			<tr>10:45 pm - 11:45 pm&nbsp&nbsp&nbspTeam Formation and Networking</tr><br>
-			<tr>6th October</tr><br>
-			<tr>12:00 am Start Hackathon</tr><br>
-			<tr>3:00 am  Midnight Snacks</tr><br>
-			<tr>8:30 am Breakfast</tr><br>
-			<tr>12:30 pm DCEI WEP Launch</tr><br>
-			<tr>5:30 pm Lunch</tr><br>
-			<tr>8:30 pm Snacks</tr><br>
-			<tr>2:00 pm  Dinner</tr><br>
-			<tr>7th October</tr><br>
-			<tr>6:00 am   Submission Of Product and Hackathon Ends</tr><br>
-			<tr>8:00am - 9:00am  Jury Decision and Shortlist Out</tr><br>
-			<tr>9:00am - 11:00am Presentation and Judging</tr><br>
-			<tr>11:00am - 12:00pmAwards and Closing Ceremony</tr><br>
-			
-
-			</table>
-			</p>
-			<p class="black-text mb-4">Show your passion and innovation and win awesome prizes. </p>
-
-          </div>
-        </div>
+		
       </div>
     </section>
 	
@@ -200,6 +167,64 @@
         </div>
       </div>
     </section>
+	
+	<section id="sponsorss">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading black-text">Sponsors</h2>
+			<hr class="my-4">
+			<br><br>
+			<section> 
+
+
+ 
+			<div class="row"> 
+
+
+ 
+			<div class="col-md-3" style="padding-right:100px; padding-left:50px ; padding-bottom:30px"><img src="img2/11.png" width="180px"></div> 
+
+
+ 
+            <div class="col-md-3" style="padding-right:100px; padding-bottom:30px"><img src="img2/1.png" width="180px"></div> 
+
+
+ 
+			<div class="col-md-3" style="padding-right:100px; padding-bottom:30px"><img src="img2/fp6.png" width="180px"></div> 
+
+
+ 
+			<div class="col-md-3" style="padding-right:100px; padding-bottom:30px"><img src="img2/h.png" width="180px"></div> 
+
+
+ 
+			</div>		
+
+            <div class="row"> 
+
+
+ 
+			<div class="col-md-3" style="padding-right:100px; padding-left:50px ; padding-bottom:30px"><img src="img2/s.png" width="180px"></div> 
+
+
+ 
+            <div class="col-md-3" style="padding-right:100px; padding-bottom:30px"><img src="img2/i.png" width="180px"></div> 
+
+
+  
+			</div>				
+
+
+ 
+			</section> 
+            <hr class="light my-4">
+          </div>
+        </div>
+      </div>
+    
+    </section>
+
 	
 	 <section id="sponsors">
       <div class="container">
